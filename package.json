@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@novachat-enterprise-erp/cache": "^0.1.0",
-    "@novachat-enterprise-erp/common": "^0.1.0",
+    "@novachat-enterprise-erp/common": "^0.1.1",
     "@novachat-enterprise-erp/contracts": "^0.1.0",
     "@novachat-enterprise-erp/events": "^0.1.0",
     "@socket.io/redis-adapter": "8.3.0",
